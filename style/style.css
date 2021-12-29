@@ -63,3 +63,10 @@ a{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan) 1;
 }
+p{
+        color: dimgrey;
+
+}
+footer{
+    text-align: center;
+}
